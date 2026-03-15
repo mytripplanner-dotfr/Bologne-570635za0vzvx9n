@@ -1,0 +1,175 @@
+{
+  "pays": "Italie",
+  "drapeau": "🇮🇹",
+  "symbole": "🍝",
+  "titre": "Bologne, la Gourmande et l'Érudite",
+  "budget_total": "Environ 800-850 €/personne",
+  "duree": "3 jours",
+  "temps_vol": "1h45 depuis Paris, france",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et premiers pas sous les portiques",
+      "legende": "Débutez votre séjour en douceur par une immersion dans le cœur historique de Bologne, flânant sous ses célèbres portiques et découvrant l'effervescence de la Piazza Maggiore.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>🛬 Arrivée à Bologne</strong>: Atterrissage en douceur à l'aéroport Guglielmo Marconi, suivi d'un transfert facile vers le centre-ville.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez vos quartiers dans votre hébergement, idéalement situé pour explorer la ville à pied.",
+        "<strong>🚶‍♂️ Balade Piazza Maggiore & Quadrilatero</strong>: Imprégnez-vous de l'ambiance vibrante de la place principale et perdez-vous dans les ruelles gourmandes du quartier médiéval du Quadrilatero."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Bologne-Guglielmo Marconi, Bologne",
+          "categorie": "Aéroport",
+          "coords": { "lat": 44.535, "lng": 11.288 }
+        },
+        {
+          "nom_recherche": "Piazza Maggiore, Bologne",
+          "categorie": "Place",
+          "coords": { "lat": 44.4938, "lng": 11.3427 }
+        },
+        {
+          "nom_recherche": "Quadrilatero, Bologne",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 44.4947, "lng": 11.3450 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Les portiques de Bologne sont inscrits au patrimoine mondial de l'UNESCO, offrant un abri constant contre le soleil ou la pluie."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌆",
+      "titre": "Trésors cachés et saveurs locales",
+      "legende": "Explorez les secrets de Bologne, de ses églises millénaires à ses vues panoramiques, en savourant chaque instant et chaque bouchée de ses délices culinaires.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>⛪ Visite du complexe Santo Stefano</strong>: Découvrez \"Les Sept Églises\", un ensemble architectural unique offrant une atmosphère de sérénité et d'histoire.",
+        "<strong>🚶‍♀️ Promenade sous les Portiques</strong>: Laissez-vous guider par les 40 km de portiques, patrimoine UNESCO, jusqu'à des recoins insoupçonnés de la ville.",
+        "<strong>🍽️ Dégustation de spécialités locales</strong>: Offrez-vous un déjeuner ou un dîner dans une trattoria typique pour goûter aux saveurs authentiques de l'Émilie-Romagne."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Basilica di Santo Stefano, Bologne",
+          "categorie": "Basilique",
+          "coords": { "lat": 44.4925, "lng": 11.3492 }
+        },
+        {
+          "nom_recherche": "Portiques de Bologne",
+          "categorie": "Architecture",
+          "coords": { "lat": 44.494, "lng": 11.343 }
+        },
+        {
+          "nom_recherche": "Osteria dell'Orsa, Bologne",
+          "categorie": "Restaurant",
+          "coords": { "lat": 44.4985, "lng": 11.3465 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce gourmande",
+          "texte": "N'hésitez pas à demander un \"tagliere\" (planche) de charcuteries et fromages locaux pour l'apéritif, accompagné d'un verre de Pignoletto."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "✈️",
+      "titre": "Vue imprenable et départ",
+      "legende": "Terminez votre séjour par une vue panoramique sur la ville depuis le sanctuaire de San Luca, avant de vous préparer pour le retour, la tête pleine de souvenirs.",
+      "lieu": "Bologne",
+      "activites": [
+        "<strong>⛰️ Sanctuaire de la Madonna di San Luca</strong>: Montez (en bus ou à pied sous le portique le plus long du monde) jusqu'à ce magnifique sanctuaire pour une vue imprenable sur Bologne et ses collines.",
+        "<strong>🛍️ Derniers achats et souvenirs</strong>: Profitez des dernières heures pour dénicher quelques spécialités locales ou objets artisanaux à rapporter.",
+        "<strong>✈️ Départ de Bologne</strong>: Transfert vers l'aéroport pour votre vol retour, le cœur léger et les papilles enchantées."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Santuario della Madonna di San Luca, Bologne",
+          "categorie": "Sanctuaire",
+          "coords": { "lat": 44.481, "lng": 11.299 }
+        },
+        {
+          "nom_recherche": "Via dell'Indipendenza, Bologne",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 44.497, "lng": 11.343 }
+        },
+        {
+          "nom_recherche": "Aéroport de Bologne-Guglielmo Marconi, Bologne",
+          "categorie": "Aéroport",
+          "coords": { "lat": 44.535, "lng": 11.288 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport San Luca",
+          "texte": "Pour monter au Sanctuaire de San Luca, prenez le bus 20 depuis le centre-ville jusqu'à l'arrêt \"Meloncello\", puis le \"San Luca Express\" (petit train touristique) ou marchez sous le portique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 186 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 40 €/pers (bus aéroport, transports en commun)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 300 €/pers (3 repas/jour, trattorias)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 250 €/pers (2 nuits en hôtel 3*)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 30 €/pers (entrées, tours)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Printemps (avril-juin)", "symbole": "🌸" },
+    { "titre": "Automne (septembre-octobre)", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En octobre, les températures varient entre 10 et 20°C. Prévoir des couches et un parapluie.", "symbole": "☔" },
+    { "titre": "La plupart des commerces acceptent les cartes de crédit. Ayez un peu d'espèces pour les petits marchés ou cafés.", "symbole": "💳" },
+    { "titre": "Bologne est très agréable à explorer à pied. Un bon réseau de bus (Tper) dessert la ville et ses environs.", "symbole": "🚶‍♀️" },
+    { "titre": "L'eau du robinet est potable. Les pourboires ne sont pas obligatoires mais appréciés (5-10%).", "symbole": "💧" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Bologne est surnommée \\\"La Dotta\\\" (l'Érudite) grâce à son université, la plus ancienne du monde occidental, fondée en 1088." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "Cherchez la \\\"finestra sul canale\\\" (fenêtre sur le canal) dans la Via Piella. Une petite fenêtre s'ouvre sur un canal caché, rappelant la \\\"petite Venise\\\" de Bologne." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🍴", 
+      "titre": "Tagliatelle al Ragù", 
+      "description": "Le véritable \\\"Bolognese\\\" n'est pas une sauce spaghetti, mais un riche ragoût de viande mijoté, servi avec de larges tagliatelles fraîches." 
+    },
+    { 
+      "symbole": "🍜", 
+      "titre": "Tortellini in Brodo", 
+      "description": "De minuscules pâtes farcies, traditionnellement servies dans un bouillon de chapon, un délice réconfortant et emblématique de la région." 
+    },
+    { 
+      "symbole": "🍖", 
+      "titre": "Mortadella", 
+      "description": "Cette charcuterie rose pâle, douce et parfumée, est un symbole de Bologne. Dégustez-la en fines tranches ou dans un \\\"panino\\\"." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-BLQ/2026-10-13/2026-10-16", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Bologne", "url": "https://www.bolognawelcome.com/fr", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "Tper (Transports Bologne)", "url": "https://www.tper.it/en", "symbole": "🚌" },
+    { "legende": "Météo", "titre": "Météo Bologne", "url": "https://www.ilmeteo.it/meteo/Bologna", "symbole": "🌤️" }
+  ]
+}
